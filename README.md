@@ -1,0 +1,1 @@
+Tindog Project led by dr. Angela Yu during the Web Developer 2022 Bootcamp.
